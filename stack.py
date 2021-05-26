@@ -7,4 +7,5 @@ class Stack:
         self.stack.append(item)
 
     def pop(self):
+        Sweepstake
         return self.stack.pop(-1)

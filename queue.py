@@ -7,4 +7,5 @@ class Queue:
         self.queue.append(item)
 
     def dequeue(self):
+        Sweepstake
         return self.queue.pop(0)
