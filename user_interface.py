@@ -1,6 +1,6 @@
 class UserInterface:
     def __init__(self):
-        pass
+        self.simulate_stuff()
 
-    def run_simulation(self):
+    def simulate_stuff(self):
         pass
